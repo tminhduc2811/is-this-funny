@@ -63,3 +63,6 @@ func main() {
     fmt.Println(slice)
 }
 ```
+## Books and Articles
+[Best Practices for Event-Driven Microservice Architecture by @jason](https://hackernoon.com/best-practices-for-event-driven-microservice-architecture-e034p21lk)
+
