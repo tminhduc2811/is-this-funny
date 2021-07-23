@@ -7,6 +7,7 @@ The answer is
 - [Lipgloss](https://github.com/charmbracelet/lipgloss)
 
 ## Golang
+- https://github.com/jedib0t/go-pretty
 
 ### Handling concurrency
 - Append to same slice outside a go-routine
