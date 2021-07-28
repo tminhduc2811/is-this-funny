@@ -1,10 +1,14 @@
 # is-this-funny
 The answer is
 
-## Terminal apps
+## Terminal
 
 - [Bubbletea](https://github.com/charmbracelet/bubbletea)
 - [Lipgloss](https://github.com/charmbracelet/lipgloss)
+
+
+## Setup
+- [Terminal with zsh tmux and dracula theme](https://dev.to/andrenbrandao/terminal-setup-with-zsh-tmux-dracula-theme-48lm)
 
 ## Golang
 - https://github.com/jedib0t/go-pretty
