@@ -69,7 +69,7 @@ func main() {
 }
 ```
 ## Books and Articles
-
+- [How to explain object-oriented programming concepts to a 6-year-old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
 ### Articles
 [System Design Cheat Sheet](https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723)
 
@@ -83,3 +83,4 @@ func main() {
 [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 
 [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/exec/obidos/ASIN/0135974445/objectmentorinc)
+
