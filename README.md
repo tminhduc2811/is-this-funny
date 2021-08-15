@@ -14,6 +14,10 @@ The answer is
 ### Articles
 [System Design Cheat Sheet](https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723)
 
+
+## System Design
+- [Top 10 System Design Interview Questions](https://medium.com/geekculture/top-10-system-design-interview-questions-10f7b5ea123d)
+
 ### Books
 [Best Practices for Event-Driven Microservice Architecture by @jason](https://hackernoon.com/best-practices-for-event-driven-microservice-architecture-e034p21lk)
 
