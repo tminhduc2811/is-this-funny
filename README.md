@@ -6,6 +6,7 @@ The answer is
 ### Books and Articles
 - [How to explain object-oriented programming concepts to a 6-year-old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
 - [Still using redux in 2021? Clean your codebase using Modern React](https://medium.com/@patwa.deepak/still-using-redux-in-2021-clean-your-codebase-using-modern-react-9d4afed45cda)
+- [Layout in CSS Learn how to structure your CSS Layout](https://medium.com/crowdbotics/layout-in-css-634c3ca3dcff)
 
 ## Backend Things
 
