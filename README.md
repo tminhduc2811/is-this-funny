@@ -17,6 +17,7 @@ The answer is
 
 ## System Design
 - [Top 10 System Design Interview Questions](https://medium.com/geekculture/top-10-system-design-interview-questions-10f7b5ea123d)
+- [Uber Architecture and System Design](https://medium.com/nerd-for-tech/uber-architecture-and-system-design-e8ac26690dfc)
 
 ### Books
 [Best Practices for Event-Driven Microservice Architecture by @jason](https://hackernoon.com/best-practices-for-event-driven-microservice-architecture-e034p21lk)
